@@ -8,5 +8,7 @@
   grapes
   papaya
   anar
+  animals
+  sugarcane
   
   
